@@ -1,0 +1,13 @@
+id: org.inkcanvas.remotemessage
+name: RemoteMessage
+version: 1.0.0
+description: 远程消息，使用ICCCE的灵动通知API
+author: ICC-CE
+entranceAssembly: RemoteMessagePlugin.dll
+url: https://github.com/AstrZero/ICCPlugin-RemoteMessage
+repoOwner: AstrZero
+repoName: ICCPlugin-RemoteMessage
+downloadPath: releases/download/{version}/RemoteMessagePlugin.icpx
+iconPath: ""
+readmePath: README.md
+dependencies: []
